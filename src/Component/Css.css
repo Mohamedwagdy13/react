@@ -1,0 +1,18 @@
+a{
+    text-decoration: none;
+    color: black;
+    
+}
+a:hover {
+    color: #5C0005;
+}
+div{padding: 1rem;
+margin-top: 2px;}
+footer{
+    font-size: large;
+
+}
+footer a
+{
+margin-top: 10px;
+}
